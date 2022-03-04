@@ -1,0 +1,2 @@
+COMPONENT = "payment"
+ENV       = "dev"
